@@ -1,0 +1,10 @@
+{
+    "model": "Random Forest",
+    "accuracy": 0.99,
+    "params": {
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5,
+        "n_estimators": 50
+    }
+}
