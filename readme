@@ -47,8 +47,8 @@ pip install fastapi uvicorn scikit-learn pandas numpy joblib rich scipy
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mugabi91/risk-model-api.git
-   cd risk-model-api
+   git clone https://github.com/mugabi91/HRTV-test
+   cd HRTV-test
    ```
 
 2. Ensure you have all dependencies installed (see **Requirements**).
