@@ -115,4 +115,4 @@ uvicorn api:app --host 0.0.0.0 --port 8000 --reload
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
+Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes
